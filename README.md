@@ -28,13 +28,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist open-ecommerce/yii2-backuprestore "dev-master"
+php composer.phar require --prefer-dist ncface/yii2-backuprestore "dev-master"
 ```
 
 or add
 
 ```
-"open-ecommerce/yii2-backuprestore": "dev-master"
+"ncface/yii2-backuprestore": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
